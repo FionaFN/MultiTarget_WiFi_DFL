@@ -17,8 +17,9 @@ We are still working on the release of the code. Currently, you can have a try a
 - [ ] Complete Dataset Release & Introduction
 - [ ] Test Code & Evaluation
 - [ ] Training Code
+<!-- - [ ] Code of Data Collection & Preprocessing -->
+<!-- - [ ] Code of Data Simulation & Augmentation -->
 <!-- - [ ] Ablation Code? -->
-<!-- - [ ] Hardware & Preprocessing Code? -->
 
 ## Environment Setup
 - This code has been tested on Ubuntu18.04. 
