@@ -3,7 +3,7 @@
 ![Teaser image](./doc/fig_intro.png)
 
 This repo is the official implementation of 
-**"[Multitarget Device-Free Localization via Cross-Domain Wi-Fi RSS Training Data and Attentional Prior Fusion](https://ojs.aaai.org/index.php/AAAI/article/view/27759)" (AAAI, 2024)**<br>
+**"[Multitarget Device-Free Localization via Cross-Domain Wi-Fi RSS Training Data and Attentional Prior Fusion](https://ojs.aaai.org/index.php/AAAI/article/view/27759)"** (AAAI, 2024)<br>
 Na Fan, Zeyue Tian, Amartansh Dubey, Samruddhi Deshmukh, Ross Murch, Qifeng Chen<br>
 
 Abstract: *Device-free localization (DFL) using easily-obtained Wi-Fi received signal strength (RSS) has wide real-world applications for not requiring people to carry trackable devices.
@@ -17,6 +17,8 @@ We are still working on the release of the code. Currently, you can have a try a
 - [ ] Complete Dataset Release & Introduction
 - [ ] Test Code & Evaluation
 - [ ] Training Code
+<!-- - [ ] Ablation Code? -->
+<!-- - [ ] Hardware & Preprocessing Code? -->
 
 ## Environment Setup
 - This code has been tested on Ubuntu18.04. 
